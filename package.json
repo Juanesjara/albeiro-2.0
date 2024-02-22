@@ -1,0 +1,25 @@
+{
+  "name": "discord-music-quizzer-2",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.15.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.4",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "libsodium-wrappers": "^0.7.13",
+    "nodemon": "^2.0.22",
+    "opusscript": "^0.0.8",
+    "play-dl": "^1.9.7",
+    "spotify-web-api-node": "^5.0.2",
+    "ytsr": "^3.8.4"
+  },
+  "description": ""
+}
